@@ -1,0 +1,6 @@
+- [ ] Scaffolded Node.js backend and React frontend for a professional portfolio.
+- [ ] Structure includes homepage, about, projects, contact, courses, and consultancy booking sections.
+- [ ] Backend: Express app with contact API endpoint (to be implemented).
+- [ ] Frontend: React (Vite) app with placeholder pages/components for all sections.
+- [ ] README and .gitignore included.
+- [ ] Ready for git init and GitHub push.
