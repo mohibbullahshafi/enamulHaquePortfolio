@@ -1,0 +1,139 @@
+{
+  "settings": {
+    "slotDuration": 60,
+    "currency": "AUD",
+    "timezone": "Australia/Melbourne",
+    "weeklyAvailability": {
+      "mon": {
+        "enabled": true,
+        "start": "09:00",
+        "end": "17:00"
+      },
+      "tue": {
+        "enabled": true,
+        "start": "09:00",
+        "end": "17:00"
+      },
+      "wed": {
+        "enabled": true,
+        "start": "09:00",
+        "end": "17:00"
+      },
+      "thu": {
+        "enabled": true,
+        "start": "09:00",
+        "end": "17:00"
+      },
+      "fri": {
+        "enabled": true,
+        "start": "09:00",
+        "end": "17:00"
+      },
+      "sat": {
+        "enabled": false,
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "sun": {
+        "enabled": false,
+        "start": "09:00",
+        "end": "13:00"
+      }
+    },
+    "blockedDates": [],
+    "consultationTypes": [
+      {
+        "id": "1",
+        "name": "Research Consultation",
+        "duration": 60,
+        "price": 150,
+        "description": "One-on-one discussion about research projects, methodologies, and collaboration opportunities."
+      },
+      {
+        "id": "2",
+        "name": "Industry Consultation",
+        "duration": 90,
+        "price": 250,
+        "description": "Technical advisory for renewable energy, EV systems, and smart grid projects."
+      },
+      {
+        "id": "3",
+        "name": "Academic Mentoring",
+        "duration": 45,
+        "price": 100,
+        "description": "PhD/Masters student mentoring, research direction guidance, and academic career advice."
+      },
+      {
+        "id": "4",
+        "name": "Training Workshop",
+        "duration": 120,
+        "price": 400,
+        "description": "Customized training on power electronics, renewable integration, or energy storage systems."
+      }
+    ]
+  },
+  "bookings": [
+    {
+      "id": "1774158572429",
+      "name": "Md Shafi",
+      "email": "shafi@moveon.com.bd",
+      "phone": "0405348474",
+      "date": "2026-03-23",
+      "time": "16:00",
+      "consultationType": "2",
+      "consultationName": "Industry Consultation",
+      "duration": 90,
+      "price": 250,
+      "currency": "AUD",
+      "notes": "Talk about phd scholership",
+      "status": "completed",
+      "createdAt": "2026-03-22T05:49:32.429Z",
+      "updatedAt": "2026-03-22T05:57:37.927Z",
+      "logs": [
+        {
+          "type": "note",
+          "text": "PhD discussion follow-up",
+          "timestamp": "2026-03-22T05:57:03.369Z"
+        },
+        {
+          "type": "note",
+          "text": "Hello",
+          "timestamp": "2026-03-22T05:57:09.930Z"
+        },
+        {
+          "type": "note",
+          "text": "PhD discussion follow-up",
+          "timestamp": "2026-03-22T05:57:21.150Z"
+        },
+        {
+          "type": "status",
+          "from": "completed",
+          "to": "completed",
+          "timestamp": "2026-03-22T05:57:32.485Z"
+        },
+        {
+          "type": "status",
+          "from": "completed",
+          "to": "completed",
+          "timestamp": "2026-03-22T05:57:37.927Z"
+        }
+      ]
+    },
+    {
+      "id": "1774158759630",
+      "name": "Mumu",
+      "email": "musrat@moveon.com.bd",
+      "phone": "06040032845",
+      "date": "2026-03-23",
+      "time": "14:00",
+      "consultationType": "4",
+      "consultationName": "Training Workshop",
+      "duration": 120,
+      "price": 400,
+      "currency": "AUD",
+      "notes": "Talk about PHD scholarship",
+      "status": "pending",
+      "createdAt": "2026-03-22T05:52:39.630Z"
+    }
+  ]
+}

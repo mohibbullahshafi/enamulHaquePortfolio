@@ -1,0 +1,521 @@
+{
+  "profile": {
+    "name": "Dr. Md Enamul Haque",
+    "title": "Associate Professor in Electrical Engineering",
+    "university": "Deakin University",
+    "school": "School of Engineering",
+    "faculty": "Faculty of Science Engineering and Built Environment",
+    "heroSubtitle": "Researcher, educator, and consultant specializing in renewable energy, electric vehicles, battery storage, and smart grid systems. 20+ years of experience across 5 countries.",
+    "email": "enamul.haque@deakin.edu.au",
+    "phone": "+61 411694474",
+    "location": "School of Engineering, Deakin University, Geelong, Victoria, Australia",
+    "linkedin": "https://www.linkedin.com/in/dr-md-enamul-haque-7a8bb421/",
+    "scholar": "https://scholar.google.com/citations?user=51tu5WEAAAAJ&hl=en",
+    "bio": "Dr. M. E. Haque received his Ph.D. degree from the University of New South Wales, Sydney, Australia. After completing his Ph.D. in Electrical Engineering, Dr. Haque worked as an academic at the University of New South Wales (UNSW), King Saud University (Saudi Arabia), United Arab Emirates University (UAE) as Assistant Professor, and the University of Tasmania (UTAS), Hobart, Australia before joining Deakin University. Dr. Haque currently works as an Associate Professor (Electrical Engineering and Renewable Energy) in the School of Engineering, Deakin University, Australia.",
+    "detailedBio": "Dr. Haque's research interests include renewable energy (wind, solar PV), electric vehicles, battery and supercapacitor energy storage, digital twin for microgrid, smart grid, cybersecurity in energy systems, and power electronics applications in renewables, electric vehicle and energy storage. He has been actively involved in professional activities and is a Senior Member of IEEE. He serves as an Associate Editor of the IEEE Transactions on Energy Conversion and IEEE Access. He was the founding Chair of the IEEE Industry Applications Society, Victoria and Chair of IEEE Power and Energy Society, Victoria.",
+    "stats": {
+      "years": "20+",
+      "publications": "150+",
+      "citations": "8165",
+      "citationsSince2021": "4827",
+      "hindex": "41",
+      "hindexSince2021": "31",
+      "i10index": "120",
+      "i10indexSince2021": "76"
+    },
+    "research_interests": [
+      "Grid Integration of Renewables",
+      "Electric Vehicle",
+      "Battery Storage",
+      "Grid Forming Inverter",
+      "Microgrid"
+    ],
+    "fieldsOfResearch": [
+      "Electrical Engineering",
+      "Electrical Energy Storage",
+      "Electrical Machines and Drives",
+      "Electrical Energy Transmission, Networks and Systems",
+      "Hybrid and Electric Vehicles and Powertrains",
+      "Electrical Energy Generation (incl. Renewables)"
+    ],
+    "timeline": [
+      {
+        "year": "Present",
+        "role": "Associate Professor (Electrical Engg & Renewable Energy)",
+        "org": "School of Engineering, Deakin University, Australia"
+      },
+      {
+        "year": "2008–2015",
+        "role": "Lecturer / Senior Lecturer",
+        "org": "University of Tasmania (UTAS), Hobart, Australia"
+      },
+      {
+        "year": "2005–2008",
+        "role": "Assistant Professor",
+        "org": "United Arab Emirates University, UAE"
+      },
+      {
+        "year": "2003–2005",
+        "role": "Academic / Researcher",
+        "org": "King Saud University, Saudi Arabia"
+      },
+      {
+        "year": "2000–2002",
+        "role": "Academic / Researcher",
+        "org": "University of New South Wales (UNSW), Sydney, Australia"
+      },
+      {
+        "year": "PhD",
+        "role": "Doctor of Philosophy (Electrical Engineering)",
+        "org": "University of New South Wales, Sydney, Australia"
+      }
+    ],
+    "awards": [
+      "University of Tasmania Teaching Merit Award for outstanding contribution in teaching & learning (2010)",
+      "Deakin University Teaching Award (2017)",
+      "Senior Member – IEEE (Institute of Electrical and Electronic Engineering), USA",
+      "Associate Editor – IEEE Transactions on Energy Conversion",
+      "Associate Editor – IEEE Access",
+      "Founding Chair – IEEE Industry Applications Society (IAS), Victoria",
+      "Chair – IEEE Power and Energy Society (PES), Victoria"
+    ],
+    "topPublications": [
+      {
+        "title": "A Novel Control Strategy for a Variable-Speed Wind Turbine With a Permanent-Magnet Synchronous Generator",
+        "authors": "ME Haque, M Negnevitsky, KM Muttaqi",
+        "journal": "IEEE Transactions on Industry Applications 46 (1), 331-339",
+        "year": 2010,
+        "citations": 976
+      },
+      {
+        "title": "Review of electric vehicle charging technologies, standards, architectures, and converter configurations",
+        "authors": "SSG Acharige, ME Haque, MT Arif, N Hosseinzadeh, KN Hasan, AMT Oo",
+        "journal": "IEEE Access 11, 41218-41255",
+        "year": 2023,
+        "citations": 591
+      },
+      {
+        "title": "Impacts of Grid integration of Solar PV and Electric Vehicle on Grid Stability, Power Quality and Energy Economics: A Review",
+        "authors": "A Tavakoli, S Saha, MT Arif, ME Haque, N Mendis, A Oo",
+        "journal": "IET Energy Systems Integration",
+        "year": 2020,
+        "citations": 372
+      },
+      {
+        "title": "A simulated annealing global maximum power point tracking approach for PV modules under partial shading conditions",
+        "authors": "S Lyden, ME Haque",
+        "journal": "IEEE Transactions on Power Electronics 31 (6), 4171-4181",
+        "year": 2015,
+        "citations": 297
+      },
+      {
+        "title": "Kalman filtering techniques for the online model parameters and state of charge estimation of the Li-ion batteries: A comparative analysis",
+        "authors": "M Hossain, ME Haque, MT Arif",
+        "journal": "Journal of Energy Storage 51, 104174",
+        "year": 2022,
+        "citations": 263
+      }
+    ]
+  },
+  "services": [
+    {
+      "id": "1",
+      "title": "Technical Consulting",
+      "description": "Expert advice on renewable energy, microgrid design, EV infrastructure, and storage.",
+      "features": [
+        "Feasibility studies",
+        "System design review",
+        "Technology assessment",
+        "Performance optimization"
+      ],
+      "icon": "lightbulb"
+    },
+    {
+      "id": "2",
+      "title": "Research Collaboration",
+      "description": "Partner on academic research, joint publications, and grant applications.",
+      "features": [
+        "Joint research",
+        "Co-authored papers",
+        "Grant support",
+        "Peer review"
+      ],
+      "icon": "academic"
+    },
+    {
+      "id": "3",
+      "title": "Industry Training",
+      "description": "Customized workshops for engineering teams on energy and EV systems.",
+      "features": [
+        "Tailored curriculum",
+        "Hands-on workshops",
+        "Certification",
+        "On-site or remote"
+      ],
+      "icon": "briefcase"
+    }
+  ],
+  "messages": [
+    {
+      "id": "1774159108052",
+      "name": "Md",
+      "email": "shafi@moveon.com.bd",
+      "subject": "Talk about Mentoring",
+      "message": "Hello sir, I would like to talk with you about my PHD programm",
+      "createdAt": "2026-03-22T05:58:28.052Z",
+      "read": true
+    }
+  ],
+  "researchAreas": [
+    {
+      "id": "1",
+      "title": "Grid Integration of Renewables",
+      "desc": "Advanced control strategies for seamless integration of wind and solar PV into power grids.",
+      "tags": [
+        "Wind Energy",
+        "Solar PV",
+        "Grid Stability"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Electric Vehicle Systems",
+      "desc": "Research on EV powertrains, charging infrastructure, and vehicle-to-grid (V2G) technologies.",
+      "tags": [
+        "EV",
+        "V2G",
+        "Charging"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Battery & Supercapacitor Storage",
+      "desc": "Energy storage solutions for grid stabilization, microgrids, and electric mobility.",
+      "tags": [
+        "Battery",
+        "Supercapacitor",
+        "Storage"
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Digital Twin for Microgrid",
+      "desc": "Digital twin models for real-time simulation, monitoring, and optimization of microgrids.",
+      "tags": [
+        "Digital Twin",
+        "Microgrid",
+        "Simulation"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Virtual Power Plants",
+      "desc": "Aggregation and optimal management of distributed energy resources for electricity market participation.",
+      "tags": [
+        "VPP",
+        "Energy Market",
+        "Optimization"
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Grid-Forming Inverters",
+      "desc": "Advanced power electronics and grid-forming inverter design for renewable integration.",
+      "tags": [
+        "Inverter",
+        "Power Electronics",
+        "Control"
+      ]
+    }
+  ],
+  "publications": [
+    {
+      "id": "p1",
+      "year": 2026,
+      "type": "journal",
+      "title": "Digital twin based microgrid control and energy management: Trends, challenges, and future directions",
+      "journal": "Computers and Electrical Engineering",
+      "volume": "134:1-24",
+      "publisher": "Elsevier",
+      "authors": "Sifat MMH, Haque ME, Islam S et al.",
+      "doi": "10.1016/j.compeleceng.2026.111100",
+      "citations": 1
+    },
+    {
+      "id": "p2",
+      "year": 2026,
+      "type": "journal",
+      "title": "FoodBD: a polygon-annotated meal image dataset of Bangladeshi cuisines with visual and nutritional labels",
+      "journal": "BMC Research Notes",
+      "volume": "19:1-4",
+      "publisher": "Springer",
+      "authors": "Ahmed BM, Haque ME, Huq AKO et al.",
+      "doi": "10.1186/s13104-025-07583-8",
+      "citations": 0
+    },
+    {
+      "id": "p3",
+      "year": 2025,
+      "type": "journal",
+      "title": "Robust Bidding Strategy for Solar-Wind-Battery Virtual Power Plants in Ancillary Service Markets",
+      "journal": "IEEE Transactions on Industry Applications",
+      "volume": "1-13",
+      "publisher": "IEEE",
+      "authors": "Gholami K, Arif MT, Haque ME",
+      "doi": "10.1109/TIA.2025.3635604",
+      "citations": 0
+    },
+    {
+      "id": "p4",
+      "year": 2025,
+      "type": "journal",
+      "title": "Comprehensive review of cutting-edge virtual power plant advancements for flexibility enhancement in future power grids",
+      "journal": "Energy Strategy Reviews",
+      "volume": "62:1-52",
+      "publisher": "Elsevier",
+      "authors": "Gholami K, Arif MT, Haque ME et al.",
+      "doi": "10.1016/j.esr.2025.101959",
+      "citations": 0
+    },
+    {
+      "id": "p5",
+      "year": 2025,
+      "type": "journal",
+      "title": "Machine learning-driven stochastic bidding for hydrogen refueling station-integrated virtual power plants in energy market",
+      "journal": "Journal of Energy Storage",
+      "volume": "134(Part A):1-20",
+      "publisher": "Elsevier",
+      "authors": "Gholami K, Arif MT, Haque ME",
+      "doi": "10.1016/j.est.2025.117946",
+      "citations": 2
+    },
+    {
+      "id": "p6",
+      "year": 2025,
+      "type": "journal",
+      "title": "Grid integration of electric vehicles – Impact assessment and remedial measures",
+      "journal": "Journal of Power Sources",
+      "volume": "650:1-29",
+      "publisher": "Elsevier",
+      "authors": "Acharige SSG, Haque ME, Arif MT et al.",
+      "doi": "10.1016/j.jpowsour.2025.236697",
+      "citations": 12
+    },
+    {
+      "id": "p7",
+      "year": 2025,
+      "type": "journal",
+      "title": "Wave-to-grid hierarchical coordinated control with energy storage and management for point absorber wave energy converters",
+      "journal": "Energy Conversion and Management: X",
+      "volume": "27:1-20",
+      "publisher": "Elsevier",
+      "authors": "Jama M, Wahyudie A, Shareef H, Haque ME",
+      "doi": "10.1016/j.ecmx.2025.101125",
+      "citations": 1
+    },
+    {
+      "id": "p8",
+      "year": 2025,
+      "type": "journal",
+      "title": "IGDT-based participation of hybrid renewable-hydrogen virtual power plants in frequency control ancillary services",
+      "journal": "International Journal of Hydrogen Energy",
+      "volume": "139:630-645",
+      "publisher": "Elsevier",
+      "authors": "Gholami K, Arif MT, Haque ME",
+      "doi": "10.1016/j.ijhydene.2025.05.280",
+      "citations": 5
+    },
+    {
+      "id": "p9",
+      "year": 2025,
+      "type": "journal",
+      "title": "Dynamic Boundary Dissemination to Virtual Power Plants for Congestion and Voltage Management in Power Distribution Networks",
+      "journal": "Energies",
+      "volume": "18(3):1-27",
+      "publisher": "MDPI",
+      "authors": "Gholami K, Arif MT, Haque ME",
+      "doi": "10.3390/en18030518",
+      "citations": 3
+    },
+    {
+      "id": "p10",
+      "year": 2025,
+      "type": "conference",
+      "title": "Deep Learning-Based Forecasting Approach for Virtual Power Plant Bidding in Energy Market",
+      "journal": "IEEE IAS Annual Meeting 2024",
+      "volume": "1-9",
+      "publisher": "IEEE",
+      "authors": "Gholami K, Arif MT, Haque ME",
+      "doi": "10.1109/ias55788.2024.11023833",
+      "citations": 1
+    },
+    {
+      "id": "p11",
+      "year": 2025,
+      "type": "conference",
+      "title": "Modeling, Parameter, and State of Charge Estimation of Li-ion Battery for Electric Vehicle Application",
+      "journal": "IEEE IAS Annual Meeting 2025",
+      "volume": "1-8",
+      "publisher": "IEEE",
+      "authors": "Mendis A, Haque ME, Arif MT et al.",
+      "doi": "10.1109/ias62731.2025.11061644",
+      "citations": 0
+    },
+    {
+      "id": "p12",
+      "year": 2025,
+      "type": "conference",
+      "title": "Voltage Regulation Assessment in DER Integrated Distribution Grids",
+      "journal": "IEEE IAS Annual Meeting 2025",
+      "volume": "1-6",
+      "publisher": "IEEE",
+      "authors": "Dua GS, Haque ME, Mahmud A",
+      "doi": "10.1109/IAS62731.2025.11061769",
+      "citations": 0
+    },
+    {
+      "id": "p13",
+      "year": 2024,
+      "type": "journal",
+      "title": "Utilizing Soft Open Points for Effective Voltage Management in Multi-Microgrid Distribution Systems",
+      "journal": "Electricity",
+      "volume": "5(4):1008-1021",
+      "publisher": "MDPI",
+      "authors": "Azizivahed A, Gholami K, Arefi A, Haque ME et al.",
+      "doi": "10.3390/electricity5040051",
+      "citations": 3
+    },
+    {
+      "id": "p14",
+      "year": 2024,
+      "type": "journal",
+      "title": "Model predictive control of 3L-NPC inverter to enhance fault ride through capability under unbalanced grid conditions",
+      "journal": "IET Power Electronics",
+      "volume": "17(14):1973-1985",
+      "publisher": "IET",
+      "authors": "Smith C, Gargoom A, Arif MT, Haque ME",
+      "doi": "10.1049/pel2.12754",
+      "citations": 6
+    },
+    {
+      "id": "p15",
+      "year": 2024,
+      "type": "journal",
+      "title": "Simultaneous allocation of soft open points and tie switches in harmonic polluted distribution networks",
+      "journal": "Electric Power Systems Research",
+      "volume": "234:1-14",
+      "publisher": "Elsevier",
+      "authors": "Gholami K, Azizivahed A, Arefi A, Haque ME et al.",
+      "doi": "10.1016/j.epsr.2024.110568",
+      "citations": 5
+    },
+    {
+      "id": "p16",
+      "year": 2024,
+      "type": "journal",
+      "title": "Stochastic scheduling of energy sharing in reconfigurable multi-microgrid systems in the presence of vehicle-to-grid technology",
+      "journal": "Electric Power Systems Research",
+      "volume": "231:1-12",
+      "publisher": "Elsevier",
+      "authors": "Azizivahed A, Gholami K, Arefi A, Haque ME et al.",
+      "doi": "10.1016/j.epsr.2024.110285",
+      "citations": 26
+    },
+    {
+      "id": "p17",
+      "year": 2024,
+      "type": "journal",
+      "title": "Hybrid uncertainty approach for management of energy storage-embedded soft open points in distribution grids",
+      "journal": "Journal of Energy Storage",
+      "volume": "87:1-12",
+      "publisher": "Elsevier",
+      "authors": "Gholami K, Azizivahed A, Arefi A, Haque ME et al.",
+      "doi": "10.1016/j.est.2024.111394",
+      "citations": 11
+    },
+    {
+      "id": "p18",
+      "year": 2024,
+      "type": "journal",
+      "title": "Coordinated Control of Grid-connected PMSG Based Wind Energy System with STATCOM and Supercapacitor Energy Storage",
+      "journal": "IEEE Transactions on Industry Applications",
+      "volume": "5108-5118",
+      "publisher": "IEEE",
+      "authors": "Prince MKK, Arif MT, Gargoom A, Haque ME et al.",
+      "doi": "10.1109/TIA.2024.3371407",
+      "citations": 23
+    },
+    {
+      "id": "p19",
+      "year": 2024,
+      "type": "journal",
+      "title": "Coordinated Volt-Var Control of Reconfigurable Microgrids with Power-to-Hydrogen Systems",
+      "journal": "Energies",
+      "volume": "17(24):1-20",
+      "publisher": "MDPI",
+      "authors": "Gholami K, Azizivahed A, Arefi A, Haque ME et al.",
+      "doi": "10.3390/en17246442",
+      "citations": 2
+    },
+    {
+      "id": "p20",
+      "year": 2024,
+      "type": "conference",
+      "title": "Robust Energy Management of VPPs Integrated with Hydrogen Fuel Cell Vehicles",
+      "journal": "IEEE AUPEC 2024",
+      "volume": "1-6",
+      "publisher": "IEEE",
+      "authors": "Gholami K, Arif MT, Haque ME",
+      "doi": "10.1109/aupec62273.2024.10807574",
+      "citations": 0
+    },
+    {
+      "id": "p21",
+      "year": 2024,
+      "type": "conference",
+      "title": "Residential Energy Use Optimisation: An Australian Case Study",
+      "journal": "IEEE ETFG 2023",
+      "volume": "1-6",
+      "publisher": "IEEE",
+      "authors": "Islam SN, Weerakoon D, Hettiarachchi P, Haque ME et al.",
+      "doi": "10.1109/ETFG55873.2023.10407445",
+      "citations": 0
+    },
+    {
+      "id": "p22",
+      "year": 2024,
+      "type": "conference",
+      "title": "Voltage Support Capability of Grid-forming Inverters under Significant Load Disturbances",
+      "journal": "IEEE ETFG 2023",
+      "volume": "1-6",
+      "publisher": "IEEE",
+      "authors": "Islam MH, Hasan KN, Datta M, Haque ME et al.",
+      "doi": "10.1109/ETFG55873.2023.10408093",
+      "citations": 0
+    },
+    {
+      "id": "p23",
+      "year": 2024,
+      "type": "conference",
+      "title": "Biometric Finger Vein Classification using Finger Inferred Images with ResNet50 and Attention Mechanisms",
+      "journal": "IEEE ICCIT 2024",
+      "volume": "2940-2945",
+      "publisher": "IEEE",
+      "authors": "Utsho MF, Haque ME, Rahman R",
+      "doi": "10.1109/ICCIT64611.2024.11021806",
+      "citations": 0
+    },
+    {
+      "id": "p24",
+      "year": 2024,
+      "type": "conference",
+      "title": "Impacts of Electric Vehicle Charging System on the Distribution Grid and Remedial Measures",
+      "journal": "IEEE IAS Annual Meeting 2024",
+      "volume": "1-9",
+      "publisher": "IEEE",
+      "authors": "Acharige SSG, Haque ME, Smith C et al.",
+      "doi": "10.1109/IAS55788.2024.11023822",
+      "citations": 0
+    }
+  ]
+}
